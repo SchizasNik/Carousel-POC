@@ -1,0 +1,32 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  font-family: 'mulish', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff;
+}
+
+@font-face {
+  font-family: 'mulish';
+  font-weight: normal;
+  src: local('mulish-regular'),
+    url(./assets/fonts/Mulish-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'mulish';
+  font-weight: 600;
+  src: local('mulish-semi-bold'),
+    url(./assets/fonts/Mulish-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'mulish';
+  font-weight: 800;
+  src: local('mulish-extra-bold'),
+    url(./assets/fonts/Mulish-ExtraBold.ttf) format('truetype');
+}

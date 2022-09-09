@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "What is Latana?",
+    "questions": [
+      { "text": "How does Latana work?", "bold": true },
+      { "text": "Why choose Latana?", "bold": false },
+      { "text": "What does Latana cost?", "bold": false }
+    ],
+    "imageURL": "images/what_is_latana.png",
+    "CTA": "Learn More"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started",
+    "imageURL": "images/getting_started.png",
+    "questions": [
+      { "text": "What is MRP?", "bold": false },
+      { "text": "How do you gather data?", "bold": false },
+      { "text": "What is a margin of error?", "bold": false }
+    ],
+    "CTA": "Learn more"
+  },
+  {
+    "id": 3,
+    "title": "Using Latana",
+    "questions": [
+      { "text": "How to use Latana?", "bold": false },
+      { "text": "What is the Brand Funnel?", "bold": false },
+      { "text": "How to interpret Brand Tracking Data?", "bold": false }
+    ],
+    "imageURL": "images/using_latana.png",
+    "CTA": "Learn More"
+  },
+  {
+    "id": 4,
+    "title": "Data Collection & Methodology",
+    "questions": [
+      { "text": "What is MRP?", "bold": false },
+      { "text": "How do you gather data?", "bold": false },
+      { "text": "What is a margin of error?", "bold": false }
+    ],
+    "imageURL": "images/data_collection.png",
+    "CTA": "Learn More"
+  },
+  {
+    "id": 5,
+    "title": "What is Latana?",
+    "questions": [
+      { "text": "How does Latana work?", "bold": true },
+      { "text": "Why choose Latana?", "bold": false },
+      { "text": "What does Latana cost?", "bold": false }
+    ],
+    "imageURL": "images/what_is_latana.png",
+    "CTA": "Learn More"
+  },
+  {
+    "id": 6,
+    "title": "Getting Started",
+    "imageURL": "images/getting_started.png",
+    "questions": [
+      { "text": "What is MRP?", "bold": false },
+      { "text": "How do you gather data?", "bold": false },
+      { "text": "What is a margin of error?", "bold": false }
+    ],
+    "CTA": "Learn more"
+  },
+  {
+    "id": 7,
+    "title": "Using Latana",
+    "questions": [
+      { "text": "How to use Latana?", "bold": false },
+      { "text": "What is the Brand Funnel?", "bold": false },
+      { "text": "How to interpret Brand Tracking Data?", "bold": false }
+    ],
+    "imageURL": "images/using_latana.png",
+    "CTA": "Learn More"
+  },
+  {
+    "id": 8,
+    "title": "Data Collection & Methodology",
+    "questions": [
+      { "text": "What is MRP?", "bold": false },
+      { "text": "How do you gather data?", "bold": false },
+      { "text": "What is a margin of error?", "bold": false }
+    ],
+    "imageURL": "images/data_collection.png",
+    "CTA": "Learn More"
+  }
+]
